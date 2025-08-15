@@ -1,6 +1,7 @@
 {
   "name": "northskate-store",
   "private": true,
+  "homepage": "http://127.0.0.1/naviproyect/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
